@@ -1,0 +1,12 @@
+server:
+  port: 8081
+
+
+# 设置请求响应的字符编码
+spring:
+  http:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+
